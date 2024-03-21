@@ -8,7 +8,7 @@ This C program calculates the number of Indian currency denominations needed to 
 ### Steps
 Clone the repository to your local machine.
 ```bash
-git clone https://github.com/your-username/indian-currency-calculator.git
+[git clone https://github.com/An1rud/Indian-Currency-Denominations-Calculator.git
 ```
 Navigate to the project directory.
 ```bash
@@ -29,10 +29,10 @@ Run the code(Non-Windows).
 - Enter the amount in rupees when prompted.
 - The program will display the required denominations of Indian currency notes and coins.
 ## Example
-'Enter the amount in rupees: 1234
+Enter the amount in rupees: 1234
 Indian Currency Denominations:
 2 x Rs 500
 1 x Rs 200
 1 x Rs 20
 1 x Rs 10
-2 x Rs 2'
+2 x Rs 2
