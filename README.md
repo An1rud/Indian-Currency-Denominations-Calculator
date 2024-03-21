@@ -10,10 +10,6 @@ Clone the repository to your local machine.
 ```bash
 git clone https://github.com/An1rud/Indian-Currency-Denominations-Calculator.git
 ```
-Navigate to the project directory.
-```bash
-cd coin
-```
 Compile the C program.
 ```bash
 gcc coin.c
