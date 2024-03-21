@@ -8,7 +8,7 @@ This C program calculates the number of Indian currency denominations needed to 
 ### Steps
 Clone the repository to your local machine.
 ```bash
-[git clone https://github.com/An1rud/Indian-Currency-Denominations-Calculator.git
+git clone https://github.com/An1rud/Indian-Currency-Denominations-Calculator.git
 ```
 Navigate to the project directory.
 ```bash
